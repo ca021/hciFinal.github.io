@@ -28,7 +28,7 @@ Some of the design assignments throughout the course were individual, allowing m
 
 - **Good Design, Bad Design** Through this project, I explored good and bad designs that I interact with everyday on Bucknell's campus. I reflected on how people interact with an example of a good design and bad design. The Medium article examining the good design is linked [here](https://ca021.medium.com/good-design-7293a5a13ceb) and the bad design is linked [here](https://ca021.medium.com/bad-design-sanitation-station-dfdf57ff8f02).
 
-<img align="center" width="300" height="400" src="/images/gooddesign.jpeg">                <img align="center" width="300" height="400" src="/images/baddesignn.jpeg">
+<img align="center" width="300" height="400" src="/images/gooddesign.jpeg"> <img align="center" width="300" height="400" src="/images/baddesignn.jpeg">
  
 
 - **Visualization Critique and Redesign** This assignment focused on 2D output by analyzing an existing information visualization. I chose to critique visualizations from Financial Times and redesigned the visualization based on the faulty points that I critiqued. Follow [this](https://ca021.medium.com/design-critique-redesign-290d87ce4e5b) link to read my critique and the principles used in the redesign.

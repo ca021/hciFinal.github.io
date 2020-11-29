@@ -15,9 +15,6 @@ Throughout the semester, we worked in teams to use the human-centered deisgn pro
 
 - **Design for Others** The purpose of this design project was to redesign an existing website to cater towards a specific user group. We chose to redesign the CommUnityZone website specifically for donors or organizations wanting to support the establishment in any way. You can read more about our design [here](https://medium.com/@dad044/design-for-others-group-3-111cefff8095).
 
-![Image of DFO](/images/moodB.png)
-A picture of the mood board we created during the design process
-
 - **Design for Creativity / Expression** For this project, we developed a web app that teaches people how to do sign language using machine learning. You can learn more about our development process [here](https://medium.com/@dbm030/hci-project-sign-language-fc13548bf04a).
 ![Image of DFC](/images/signLang.png)
 
@@ -35,7 +32,6 @@ Some of the design assignments throughout the course were individual, allowing m
  
 
 - **Visualization Critique and Redesign** This assignment focused on 2D output by analyzing an existing information visualization. I chose to critique visualizations from Financial Times and redesigned the visualization based on the faulty points that I critiqued. Follow [this](https://ca021.medium.com/design-critique-redesign-290d87ce4e5b) link to read my critique and the principles used in the redesign.
-![Re Design](/images/redesign.jpeg)
 
 ### Contact
 

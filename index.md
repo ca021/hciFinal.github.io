@@ -19,4 +19,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Have additional questions? Email me at ca021@bucknell.edu or visit my LinkedIn page [here](https://www.linkedin.com/in/courtney-andree-206345150). 
+Have additional questions? Email me at *ca021@bucknell.edu* or visit my LinkedIn page [here](https://www.linkedin.com/in/courtney-andree-206345150). 

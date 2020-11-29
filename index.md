@@ -2,7 +2,9 @@
 
 
 
+
 ### Design Manifesto
+
 
 
 
@@ -20,7 +22,10 @@ Throughout the semester, we worked in teams to use the human-centered deisgn pro
 
 ### Individual Assignments
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ca021/hciFinal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Good Design, Bad Design** The *Good Design, Bad Design* project allowed me to explore good and bad designs that I interact with everyday on Bucknell's campus. I reflected on how people interact with an example of a good design and bad design. The Medium article examining the good design is linked [here](https://ca021.medium.com/good-design-7293a5a13ceb) and the bad design is liked [here](https://ca021.medium.com/bad-design-sanitation-station-dfdf57ff8f02).
+
+- **Visualization Critique and Redesign** This assignment focused on 2D output by analyzing an existing information visualization. I chose to critique visualizations from Financial Times and redesigned the visualization based on the faulty points that I critiqued. Follow [this](https://ca021.medium.com/design-critique-redesign-290d87ce4e5b) link to read my critique and the principles used in the redesign.
+
 
 ### Contact
 

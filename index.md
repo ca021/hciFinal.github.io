@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## My HCI Website Portfolio
 
-You can use the [editor on GitHub](https://github.com/ca021/hciFinal.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Group Assignments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Throughout the semester, we were required to work in teams to complete assigmnents.
 
-```markdown
-Syntax highlighted code block
+- **Design for Others** 
+- **Design for Creativity / Expression**
+- **Deisgn for Another World**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ca021/hciFinal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have additional questions? Email me at ca021@bucknell.edu or message me through [LinkedIn](https://www.linkedin.com/in/courtney-andree-206345150). 

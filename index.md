@@ -2,9 +2,14 @@
 
 
 
+### Design Manifesto
+
+
+
 ### Group Assignments
 
-Throughout the semester, we were required to work in teams to complete assigmnents.
+Throughout the semester, we worked in teams to use the human-centered deisgn process to create new technology. The design assignments had different goals including designing for others, designing for creativity or expression, and deisgning for another world. 
+
 
 - **Design for Others** The purpose of this design project was to redesign an existing website to cater towards a specific user group. We chose to redesign the CommUnityZone website specifically for donors or organizations wanting to support the establishment in any way. You can read more about our design [here](https://medium.com/@dad044/design-for-others-group-3-111cefff8095).
 

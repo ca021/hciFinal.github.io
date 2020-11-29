@@ -32,7 +32,7 @@ Some of the design assignments throughout the course were individual, allowing m
  
 
 - **Visualization Critique and Redesign** This assignment focused on 2D output by analyzing an existing information visualization. I chose to critique visualizations from Financial Times and redesigned the visualization based on the faulty points that I critiqued. Follow [this](https://ca021.medium.com/design-critique-redesign-290d87ce4e5b) link to read my critique and the principles used in the redesign.
-
+![Re Design](/images/redesign.jpeg)
 
 ### Contact
 

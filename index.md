@@ -1,6 +1,6 @@
 ## My HCI Website Portfolio
 
-Welcome to my Human Computer Interaction (HCI) portfolio! I am a senior in Computer Science and Engineering at Bucknell University. I took HCI my Fall 2020 semester. Here, you will find demonstrations of each of my projets throughout the course.
+Welcome to my Human Computer Interaction (HCI) portfolio! I am a senior in Computer Science and Engineering at Bucknell University. I took HCI my Fall 2020 semester. Here you will find demonstrations of each of my projects throughout the course.
 
 
 ### Design Manifesto

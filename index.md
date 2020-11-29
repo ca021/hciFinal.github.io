@@ -19,7 +19,7 @@ Throughout the semester, we worked in teams to use the human-centered deisgn pro
 ![Image of DFC](/images/virtualreality.jpg)
 
 - **Deisgn for Another World** This project gave our group an opportunity to really explore virtual reality. Our creation demonstrates the design research we put into the decisions we made, the effort that went into creating the user experience we sought, and the utilization of the design process to establish a procedural, incremental path from the start to finish of this project. Visit [here](https://ca021.medium.com/design-for-another-world-creating-a-virtual-concert-35d5d80e0f4b) to learn about our project.
-![Image of DFAW](https://octodex.github.com/images/yaktocat.png)
+![Image of DFAW](/images/virtualreality.jpg)
 
 
 ### Individual Assignments
@@ -27,11 +27,8 @@ Throughout the semester, we worked in teams to use the human-centered deisgn pro
 Some of the design assignments throughout the course were individual, allowing me to reflect on the principles that I felt were the most important in physical and digital designs.
 
 - **Good Design, Bad Design** Through this project, I explored good and bad designs that I interact with everyday on Bucknell's campus. I reflected on how people interact with an example of a good design and bad design. The Medium article examining the good design is linked [here](https://ca021.medium.com/good-design-7293a5a13ceb) and the bad design is linked [here](https://ca021.medium.com/bad-design-sanitation-station-dfdf57ff8f02).
-![Image of GD](https://octodex.github.com/images/yaktocat.png)
-![Image of BD](https://octodex.github.com/images/yaktocat.png)
 
 - **Visualization Critique and Redesign** This assignment focused on 2D output by analyzing an existing information visualization. I chose to critique visualizations from Financial Times and redesigned the visualization based on the faulty points that I critiqued. Follow [this](https://ca021.medium.com/design-critique-redesign-290d87ce4e5b) link to read my critique and the principles used in the redesign.
-![Image of CR](https://octodex.github.com/images/yaktocat.png)
 
 
 ### Contact

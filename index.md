@@ -5,7 +5,7 @@ Welcome to my Human Computer Interaction (HCI) portfolio! I am a senior in Compu
 
 ### Design Manifesto
 
-
+The Design Manifesto is a reflection on the work I have completed throughout the semester. It highlights the development of my design philoophy and the principles that I took from it. You can read about my HCI experience [here](https://ca021.medium.com/design-manifesto-499bd64dd28).
 
 
 ### Group Assignments
